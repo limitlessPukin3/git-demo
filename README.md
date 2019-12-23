@@ -2,9 +2,6 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
+## Website Contents
 
-Tottooed banh mi besppose
-futurure
-
-drinking vine and smoking cigs
+1. index.html
