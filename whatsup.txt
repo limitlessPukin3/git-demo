@@ -1,1 +1,2 @@
 adding a new in the repo so that I can pull and then push
+addded new line to get conflicts
